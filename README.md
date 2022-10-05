@@ -1,5 +1,7 @@
 # Pediatrics
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/Pediatrics?logo=github&label=Download)](https://github.com/MedPocket/Pediatrics/archive/refs/heads/main.zip)
+
 Pediatrics is the specialty of medicine that cares for infants, children, and adolescents. The ages can vary from the early months until 18-21.
 
 The document repository is collected by MedPocket about pediatrics.
